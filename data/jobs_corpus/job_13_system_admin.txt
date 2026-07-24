@@ -1,0 +1,18 @@
+Title: System Administrator
+Company: Global Tech Hub
+Location: Kandy, Sri Lanka
+Level: Mid-Level
+
+Responsibilities:
+- Administer Linux enterprise servers (Ubuntu/CentOS)
+- Automate server health checks using Bash scripting
+- Manage server virtualization with VMware and KVM
+- Maintain automated server backups and system logs
+
+Requirements:
+- Linux (Ubuntu/CentOS)
+- Bash Scripting
+- VMware
+- SSH & Firewall Management
+- System Monitoring
+- 3+ years experience

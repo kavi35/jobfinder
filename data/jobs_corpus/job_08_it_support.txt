@@ -1,0 +1,18 @@
+Title: IT Support Engineer
+Company: Enterprise Systems
+Location: Colombo, Sri Lanka
+Level: Entry-Level
+
+Responsibilities:
+- Manage user access and credentials in Active Directory
+- Troubleshoot hardware, printer, and OS issues
+- Configure local network routers, switches, and VPN access
+- Provide Tier-1 technical support to enterprise employees
+
+Requirements:
+- Active Directory
+- Windows/Linux
+- Hardware Troubleshooting
+- Networking
+- Helpdesk
+- 0–2 years experience

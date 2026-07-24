@@ -1,0 +1,18 @@
+Title: Junior Software Engineer
+Company: ABC Technologies
+Location: Colombo, Sri Lanka
+Level: Junior
+
+Responsibilities:
+- Develop REST APIs using Python and FastAPI
+- Write unit tests and maintain documentation
+- Fix bugs identified during QA testing
+- Participate in code reviews and team standups
+
+Requirements:
+- Python
+- Git
+- SQL
+- REST APIs
+- Bachelor's degree in IT
+- 0–2 years experience

@@ -1,0 +1,18 @@
+Title: Business Systems Analyst
+Company: FinTech Solutions
+Location: Colombo, Sri Lanka
+Level: Mid-Level
+
+Responsibilities:
+- Gather business requirements from clients and domain experts
+- Draft detailed BRD, FRD, and User Story documentation
+- Create workflow diagrams using Visio and Lucidchart
+- Facilitate Scrum ceremonies alongside engineering teams
+
+Requirements:
+- Requirement Analysis
+- Agile/Scrum
+- Jira / Confluence
+- UML Diagrams
+- SQL basics
+- 2–4 years experience

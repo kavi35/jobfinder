@@ -1,0 +1,19 @@
+Title: Data Engineer
+Company: BigData Corp
+Location: Colombo, Sri Lanka
+Level: Senior
+
+Responsibilities:
+- Build large-scale ETL pipelines using Apache Spark and Airflow
+- Design scalable data lakehouses in Snowflake
+- Maintain data quality, schemas, and cataloging standards
+- Optimize SQL queries for distributed database systems
+
+Requirements:
+- Apache Spark
+- Apache Airflow
+- SQL
+- Snowflake
+- Python
+- Data Warehousing
+- 4+ years experience

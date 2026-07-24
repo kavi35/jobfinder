@@ -1,0 +1,19 @@
+Title: Full Stack Developer
+Company: Omnibus Tech
+Location: Remote (Sri Lanka)
+Level: Mid-Level
+
+Responsibilities:
+- Build full end-to-end web apps using MERN stack (MongoDB, Express, React, Node)
+- Write backend database queries and frontend UI components
+- Deploy web applications using Docker containers
+- Implement end-to-end security measures across API endpoints
+
+Requirements:
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- TypeScript
+- Docker
+- 3+ years experience

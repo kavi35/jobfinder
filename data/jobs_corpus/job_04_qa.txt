@@ -1,0 +1,19 @@
+Title: QA Automation Engineer
+Company: QualityPro Labs
+Location: Remote (Sri Lanka)
+Level: Mid-Level
+
+Responsibilities:
+- Create automated test scripts using Selenium and Python
+- Execute API tests using Postman and Newman
+- Integrate test suites into GitHub Actions CI/CD pipelines
+- Track bugs and log detailed issues in Jira
+
+Requirements:
+- Selenium
+- Python
+- Postman
+- CI/CD
+- Jest
+- Agile/Scrum
+- 2–3 years experience

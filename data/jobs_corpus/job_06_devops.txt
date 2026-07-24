@@ -1,0 +1,19 @@
+Title: DevOps Engineer
+Company: CloudScale Solutions
+Location: Colombo, Sri Lanka
+Level: Senior
+
+Responsibilities:
+- Manage AWS infrastructure using Terraform and Infrastructure as Code
+- Maintain Kubernetes clusters for containerized applications
+- Set up CI/CD automation pipelines using GitHub Actions
+- Monitor system reliability using Prometheus and Grafana
+
+Requirements:
+- AWS
+- Kubernetes
+- Docker
+- Terraform
+- GitHub Actions
+- Linux
+- 3–5 years experience

@@ -1,0 +1,18 @@
+Title: Cyber Security Analyst
+Company: CyberGuard LK
+Location: Colombo, Sri Lanka
+Level: Mid-Level
+
+Responsibilities:
+- Monitor security event logs using Splunk SIEM tool
+- Conduct vulnerability assessments and patch management
+- Respond to cybersecurity incidents and malware threats
+- Draft corporate security policies and compliance reports
+
+Requirements:
+- SIEM (Splunk/Elastic)
+- Incident Response
+- Vulnerability Assessment
+- Network Security
+- Ethical Hacking basics
+- 2–4 years experience
