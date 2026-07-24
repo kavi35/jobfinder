@@ -1,0 +1,19 @@
+Title: Senior Backend Developer
+Company: Sync Global
+Location: Kandy, Sri Lanka
+Level: Senior
+
+Responsibilities:
+- Architect and build high-throughput microservices using Node.js
+- Optimize PostgreSQL and Redis databases for performance
+- Implement OAuth2 and JWT authentication mechanisms
+- Mentor junior engineers and review architectural designs
+
+Requirements:
+- Node.js
+- Express
+- PostgreSQL
+- Redis
+- Docker
+- Microservices
+- 4+ years experience

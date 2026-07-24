@@ -1,0 +1,19 @@
+Title: Machine Learning Engineer
+Company: AI Frontier Labs
+Location: Colombo, Sri Lanka
+Level: Senior
+
+Responsibilities:
+- Train and fine-tune deep learning models using PyTorch
+- Build robust MLOps pipelines for continuous model deployment
+- Process structured and unstructured datasets for training
+- Evaluate model metrics and prevent overfitting
+
+Requirements:
+- Python
+- PyTorch
+- Scikit-Learn
+- MLOps
+- Data Engineering
+- Docker
+- 3+ years experience

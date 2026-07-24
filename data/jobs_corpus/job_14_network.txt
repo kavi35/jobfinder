@@ -1,0 +1,18 @@
+Title: Network Security Engineer
+Company: NetShield Lanka
+Location: Colombo, Sri Lanka
+Level: Senior
+
+Responsibilities:
+- Configure enterprise Cisco routers, switches, and firewalls
+- Implement IPsec VPNs, VLANs, and subnets for client sites
+- Perform network traffic analysis and intrusion detection
+- Resolve network downtime incidents rapidly
+
+Requirements:
+- Cisco CCNA/CCNP
+- Firewalls (Palo Alto/Fortinet)
+- Routing Protocols (BGP/OSPF)
+- VPNs
+- Wireshark
+- 4+ years experience

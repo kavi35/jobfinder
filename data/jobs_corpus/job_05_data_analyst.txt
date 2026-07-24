@@ -1,0 +1,19 @@
+Title: Data Analyst
+Company: Insights LK
+Location: Colombo, Sri Lanka
+Level: Mid-Level
+
+Responsibilities:
+- Extract and transform raw data from SQL databases
+- Build interactive business intelligence dashboards in Power BI
+- Perform exploratory data analysis using Pandas and NumPy
+- Present statistical findings to key stakeholders
+
+Requirements:
+- SQL
+- Power BI
+- Python
+- Excel
+- Data Visualization
+- Pandas
+- 2+ years experience

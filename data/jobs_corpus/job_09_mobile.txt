@@ -1,0 +1,18 @@
+Title: Mobile Application Developer
+Company: AppNation
+Location: Remote (Sri Lanka)
+Level: Mid-Level
+
+Responsibilities:
+- Develop cross-platform mobile apps using Flutter and Dart
+- Connect mobile frontends with RESTful backend services
+- Publish apps to Google Play Store and Apple App Store
+- Optimize app memory usage and offline storage
+
+Requirements:
+- Flutter
+- Dart
+- State Management (Bloc/Provider)
+- REST APIs
+- SQLite
+- 2+ years experience

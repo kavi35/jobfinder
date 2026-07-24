@@ -1,0 +1,17 @@
+Title: Software Engineering Intern
+Company: StartUp Hive
+Location: Colombo, Sri Lanka
+Level: Internship
+
+Responsibilities:
+- Assist engineering teams with bug fixes and feature development
+- Write clean documentation for existing REST APIs
+- Participate in daily standups and learn production tech stack
+- Write basic automated test cases
+
+Requirements:
+- Undergrad/Graduate in CS/IT
+- Basic knowledge of Python, Java, or JavaScript
+- Understanding of Git version control
+- Passion for software engineering
+- Good problem-solving skills

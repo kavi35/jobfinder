@@ -1,0 +1,18 @@
+Title: Frontend Engineer
+Company: WebX Digital
+Location: Colombo, Sri Lanka
+Level: Mid-Level
+
+Responsibilities:
+- Build responsive UI components using React.js and TypeScript
+- Integrate REST and GraphQL APIs into frontend applications
+- Improve web application speed and SEO performance
+- Collaborate with UI/UX designers to implement design systems
+
+Requirements:
+- React.js
+- TypeScript
+- Tailwind CSS
+- HTML5/CSS3
+- Next.js
+- 2–4 years experience

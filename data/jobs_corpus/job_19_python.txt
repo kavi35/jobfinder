@@ -1,0 +1,19 @@
+Title: Python Backend Developer
+Company: PyDev Labs
+Location: Colombo, Sri Lanka
+Level: Mid-Level
+
+Responsibilities:
+- Build high-performance REST APIs using Django and FastAPI
+- Manage asynchronous background task queues with Celery and Redis
+- Integrate third-party payment gateways and webhooks
+- Write clean, PEP8-compliant code with comprehensive test coverage
+
+Requirements:
+- Python
+- Django / FastAPI
+- Celery
+- Redis
+- PostgreSQL
+- Docker
+- 2–4 years experience

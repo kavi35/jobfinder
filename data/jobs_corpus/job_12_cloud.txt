@@ -1,0 +1,19 @@
+Title: Cloud Solutions Architect
+Company: SkyLine Infrastructure
+Location: Colombo, Sri Lanka
+Level: Lead / Principal
+
+Responsibilities:
+- Design enterprise-grade cloud architectures on Azure
+- Ensure compliance, disaster recovery, and cloud security
+- Evaluate multi-cloud hybrid strategies for clients
+- Conduct cloud cost estimation and resource optimization
+
+Requirements:
+- Azure
+- AWS
+- System Architecture
+- Cloud Security
+- Networking
+- Enterprise Solutions
+- 6+ years experience

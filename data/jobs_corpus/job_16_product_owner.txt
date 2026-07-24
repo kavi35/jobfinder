@@ -1,0 +1,18 @@
+Title: Agile Product Owner
+Company: NextGen Products
+Location: Colombo, Sri Lanka
+Level: Senior
+
+Responsibilities:
+- Manage and prioritize the software engineering product backlog
+- Define feature acceptances and sprint objectives
+- Bridge communication between executive stakeholders and devs
+- Track sprint velocity and product delivery milestones
+
+Requirements:
+- Product Management
+- Agile Frameworks
+- Backlog Prioritization
+- Roadmapping
+- Stakeholder Engagement
+- 4+ years experience
