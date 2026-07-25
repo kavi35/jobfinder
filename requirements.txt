@@ -1,0 +1,9 @@
+streamlit
+pydantic
+pypdf
+langchain
+langchain-openai
+python-dotenv
+beautifulsoup4
+httpx
+lxml
